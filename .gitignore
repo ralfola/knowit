@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Congestion_taxes_API/Congestion_taxes_API/bin/Debug/netcoreapp3.1
+/Congestion_taxes_API/Congestion_taxes_API/obj
+/Congestion_taxes_API/.vs/Congestion_taxes_API/v16
+/Congestion_taxes_API/Congestion_taxes_server/bin/Debug/netcoreapp3.1
+/Congestion_taxes_API/Congestion_taxes_server/obj
+/Congestion_taxes_API/NUnitTestProject1/bin/Debug/netcoreapp3.1
+/Congestion_taxes_API/Congestion_taxes_server
+/Congestion_taxes_API/NUnitTestProject1/obj
